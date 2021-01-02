@@ -80,3 +80,6 @@ name = "ctrlp"
 [[custom_plugins]]
     repo = "jaxbot/semantic-highlight.vim"
     merged = false
+
+[[layers]]
+name = "tools#dash"
