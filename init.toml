@@ -70,10 +70,6 @@ default_height = 30
     merged = false
 
 [[custom_plugins]]
-    repo = "Xuyuanp/nerdtree-git-plugin"
-    merged = false
-
-[[custom_plugins]]
     repo = "tiagofumo/vim-nerdtree-syntax-highlight"
     merged = false
 
